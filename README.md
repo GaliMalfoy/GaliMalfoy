@@ -109,11 +109,13 @@
 
 <br>
 
+
 <li>
   <a href="https://www.instagram.com/galileaherrr?igsh=M3p2dmZiNzYweTJo" target="_blank">
-    <img src="https://img.shields.io/badge/instagram:-galileaherrr-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/-galileaherrr-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a>
 </li>
+
 
 
 
