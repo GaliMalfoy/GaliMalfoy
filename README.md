@@ -10,11 +10,11 @@
 <picture> <img align="right" src="https://raw.githubusercontent.com/GaliMalfoy/GaliMalfoy/refs/heads/main/giphy.webp" width = 400px></picture>
 <br>
 
-- Una apasionada programadora junior y TSU en Informática
-- Disfruto jugando CTF's en mi tiempo libre
-- Actualmente, estoy aprendiendo Desarrollo Web de manera autodidacta
-- [Mi sitio web personal](https://www.0xabdulkhalid.ml)
-- Actualmente, estoy abierta a oportunidades de prácticas o empleo, este es [mi currículum](https://read.cv/0xabdulkhalid)
+👋 Hola! Soy Técnico Superior Universitario en Informática y actualmente estoy estudiando para obtener mi título de Ingeniería en Informática. Me apasiona el mundo de la tecnología y siempre estoy en busca de nuevas oportunidades para aprender y crecer.
+
+💻 Tengo experiencia en desarrollo de software, administración de sistemas y gestión de bases de datos. Me interesa particularmente el desarrollo y la programación, y estoy enfocado en conseguir un puesto como programador junior para poner en práctica y expandir mis conocimientos.
+
+🚀 Estoy entusiasmado por enfrentar nuevos retos y colaborar en proyectos innovadores. Si tienes alguna idea o proyecto en mente, ¡me encantaría escuchar de ti!
 
 <br><br>
 
