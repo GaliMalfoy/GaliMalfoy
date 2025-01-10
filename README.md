@@ -7,7 +7,10 @@
 <br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Acerca de mí**
-<picture> <img align="right" src="https://raw.githubusercontent.com/GaliMalfoy/GaliMalfoy/refs/heads/main/giphy.webp" width = 400px></picture>
+<picture> 
+  <img align="right" src="https://raw.githubusercontent.com/GaliMalfoy/GaliMalfoy/refs/heads/main/giphy%20(3).webp" width="400px">
+</picture>
+
 <br>
 
 👋 Hola! Soy Técnica Superior Universitaria en Informática y actualmente estoy estudiando para obtener mi título de Ingeniería en Informática. Me apasiona el mundo de la tecnología y siempre estoy en busca de nuevas oportunidades para aprender y crecer.
