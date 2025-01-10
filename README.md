@@ -10,11 +10,11 @@
 <picture> <img align="right" src="https://raw.githubusercontent.com/GaliMalfoy/GaliMalfoy/refs/heads/main/giphy.webp" width = 400px></picture>
 <br>
 
-👋 Hola! Soy Técnico Superior Universitario en Informática y actualmente estoy estudiando para obtener mi título de Ingeniería en Informática. Me apasiona el mundo de la tecnología y siempre estoy en busca de nuevas oportunidades para aprender y crecer.
+👋 Hola! Soy Técnica Superior Universitaria en Informática y actualmente estoy estudiando para obtener mi título de Ingeniería en Informática. Me apasiona el mundo de la tecnología y siempre estoy en busca de nuevas oportunidades para aprender y crecer.
 
-💻 Tengo experiencia en desarrollo de software, administración de sistemas y gestión de bases de datos. Me interesa particularmente el desarrollo y la programación, y estoy enfocado en conseguir un puesto como programador junior para poner en práctica y expandir mis conocimientos.
+💻 Tengo experiencia en desarrollo de software, administración de sistemas y gestión de bases de datos. Me interesa particularmente el desarrollo y la programación, y estoy enfocada en conseguir un puesto como programadora junior para poner en práctica y expandir mis conocimientos.
 
-🚀 Estoy entusiasmado por enfrentar nuevos retos y colaborar en proyectos innovadores. Si tienes alguna idea o proyecto en mente, ¡me encantaría escuchar de ti!
+🚀 Estoy entusiasmada por enfrentar nuevos retos y colaborar en proyectos innovadores. Si tienes alguna idea o proyecto en mente, ¡me encantaría escuchar de ti!
 
 <br><br>
 
