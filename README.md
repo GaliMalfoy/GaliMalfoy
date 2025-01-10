@@ -61,8 +61,6 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
 </p>
 
 <br>
@@ -70,41 +68,6 @@
 
 -----
 
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
-<br>
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-<br>
-<br>
-<br>
-
------
-
-<br>
 <br>
 
 ## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
@@ -119,21 +82,11 @@
 </a>
 </li>
 
-
-<br>
-
-
 <li>
   <a href="https://www.instagram.com/galileaherrr?igsh=M3p2dmZiNzYweTJo" target="_blank">
     <img src="https://img.shields.io/badge/-galileaherrr-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a>
 </li>
-
-
-
-
-
-<br>
 
 <li>
   <a href="mailto:galileaherrera14@gmail.com" target="_blank">
@@ -141,8 +94,6 @@
   </a>
 </li>
 
-</li>
-    
 </ul>
 </div>
 
@@ -151,11 +102,7 @@
 <br>
 <br>
 
----
+-----
 
-## 🐍 A Snake Eating my Contributions Graph
-    
-<p align="center">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
-<br>
+
+
