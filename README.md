@@ -118,9 +118,10 @@
 <br>
 
 <li>
-<a href="mailto:galileaherrera14@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail:-galileaherrera14@gmail.com-c14438.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:galileaherrera14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-galileaherrera14@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="margin-bottom: 5px;" />
+  </a>
+</li>
 
 </li>
     
